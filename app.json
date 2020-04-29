@@ -1,0 +1,11 @@
+{
+    "id": "6f3cdd8c-43de-4679-9783-d682abf84cd7",
+    "name": "CPB game editor",
+    "components": [
+        {
+            "namespace": "cpb-age",
+            "html": "html/",
+            "js": "js/"
+        }
+    ]
+}
